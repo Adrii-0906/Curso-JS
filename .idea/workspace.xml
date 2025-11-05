@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c48a4597-6481-43ba-b641-456d72577e87" name="Changes" comment="" />
+    <list default="true" id="c48a4597-6481-43ba-b641-456d72577e87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/4.- Sentencias de Decision en JavaScript/Ejercicios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.- Sentencias de Decision en JavaScript/SenteciasDeDecision.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.- Operadores/Operadores.js" beforeDir="false" afterPath="$PROJECT_DIR$/3.- Operadores/Operadores.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/3.- Operadores/Operadores.js" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -28,17 +39,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.EjercicioMayorEdad.js.executor": "Run",
+    "Node.js.Ejercicios.js.executor": "Run",
     "Node.js.HolaMundo.js.executor": "Run",
     "Node.js.Operadores.js.executor": "Run",
+    "Node.js.SenteciasDeDecision.js.executor": "Run",
     "Node.js.Variables.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/adrian/Documentos/Curso JavaScript",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/adria/Documents/GitHub/Curso-JS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -47,8 +65,14 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.Operadores.js">
-    <configuration name="Operadores.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.- Operadores/Operadores.js" working-dir="$PROJECT_DIR$/3.- Operadores">
+  <component name="RunManager" selected="Node.js.Ejercicios.js">
+    <configuration name="Ejercicios.js" type="NodeJSConfigurationType" path-to-node="$APPLICATION_CONFIG_DIR$/node/versions/24.11.0/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.- Sentencias de Decision en JavaScript/Ejercicios.js" working-dir="$PROJECT_DIR$/4.- Sentencias de Decision en JavaScript">
+      <method v="2" />
+    </configuration>
+    <configuration name="Operadores.js" type="NodeJSConfigurationType" temporary="true" path-to-node="$APPLICATION_CONFIG_DIR$/node/versions/24.11.0/node" nameIsGenerated="true" path-to-js-file="Operadores.js" working-dir="$PROJECT_DIR$/3.- Operadores">
+      <method v="2" />
+    </configuration>
+    <configuration name="SenteciasDeDecision.js" type="NodeJSConfigurationType" path-to-node="$APPLICATION_CONFIG_DIR$/node/versions/24.11.0/node" nameIsGenerated="true" path-to-js-file="SenteciasDeDecision.js" working-dir="$PROJECT_DIR$/4.- Sentencias de Decision en JavaScript">
       <method v="2" />
     </configuration>
     <configuration name="Variables.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2.- Variables en JavaScript/Variables.js" working-dir="$PROJECT_DIR$/2.- Variables en JavaScript">
@@ -64,7 +88,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
       </set>
     </attachedChunks>
   </component>
@@ -79,10 +103,23 @@
       <workItem from="1760630652249" duration="1655000" />
       <workItem from="1760632315429" duration="1476000" />
       <workItem from="1760633829644" duration="5352000" />
+      <workItem from="1762373135883" duration="74000" />
+      <workItem from="1762373224732" duration="6327000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
