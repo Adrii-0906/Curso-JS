@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c48a4597-6481-43ba-b641-456d72577e87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/4.- Sentencias de Decision en JavaScript/Ejercicios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.- Sentencias de Decision en JavaScript/SenteciasDeDecision.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.- Ciclos en JavaScript/Ciclos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.- Ciclos en JavaScript/Ejercicio1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.- Ciclos en JavaScript/Ejercicio2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.- Operadores/Operadores.js" beforeDir="false" afterPath="$PROJECT_DIR$/3.- Operadores/Operadores.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.Ciclos.js.executor": "Run",
+    "Node.js.Ejercicio1.js.executor": "Run",
+    "Node.js.Ejercicio2.js.executor": "Run",
     "Node.js.EjercicioMayorEdad.js.executor": "Run",
     "Node.js.Ejercicios.js.executor": "Run",
     "Node.js.HolaMundo.js.executor": "Run",
@@ -65,7 +68,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.Ejercicios.js">
+  <component name="RunManager">
     <configuration name="Ejercicios.js" type="NodeJSConfigurationType" path-to-node="$APPLICATION_CONFIG_DIR$/node/versions/24.11.0/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.- Sentencias de Decision en JavaScript/Ejercicios.js" working-dir="$PROJECT_DIR$/4.- Sentencias de Decision en JavaScript">
       <method v="2" />
     </configuration>
@@ -105,6 +108,7 @@
       <workItem from="1760633829644" duration="5352000" />
       <workItem from="1762373135883" duration="74000" />
       <workItem from="1762373224732" duration="6327000" />
+      <workItem from="1762462106727" duration="3794000" />
     </task>
     <servers />
   </component>
